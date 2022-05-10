@@ -1,0 +1,22 @@
+{    
+"configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+				"${default}",
+                "${workspaceFolder}/**"
+            ],
+            "defines": [
+				"SFML_STATIC",
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "compilerPath": "D:/YK/Programing/C++/MinGW32/bin/gcc.exe",
+            "cStandard": "c11",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "${default}"
+        }
+    ],
+    "version": 4
+}
